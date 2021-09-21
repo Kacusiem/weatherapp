@@ -1,2 +1,2 @@
 # weatherapp
-It is a weather app created with a front-end course 
+It is a weather app created with a front-end course
